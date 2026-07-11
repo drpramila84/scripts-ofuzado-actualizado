@@ -46,7 +46,7 @@ end
 
 -- Load main script first
 print("[GUI Override] Loading main script...")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LORD_RAJBHAI/scripts-ofuzado-actualizado/refs/heads/main/unificado_v3_6_4%20(2).lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alanbeikers9/scripts-ofuzado-actualizado/refs/heads/main/unificado_v3_6_4%20(2).lua"))()
 
 -- Then update the GUI title
 updateGuiTitle()
